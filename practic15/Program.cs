@@ -6,7 +6,7 @@
         {
             CreateThread(new ObjArray("Круто", 100, 100));
             CreateThread(new ObjArray("Вау", 10, 100));
-            CreateThread(new ObjArray("C#", 500, 50));
+            CreateThread(new ObjArray("C#", 300, 50));
         }
 
         private static void Method(object s)
